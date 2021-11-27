@@ -1,12 +1,12 @@
-# README GENERATOR
-  ### Created by: Devon
+# My Portfolio
+  ### Created by: Devon kuhn
   ## License
 This application falls under the following license:
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 (https://opensource.org/licenses/MIT)
   
   ## Description
-  A basic README generator made with Javascript.
+  d
   ## Table of Contents
   - [Installation](#installation)
   - [Application Usage](#usage)
@@ -15,13 +15,13 @@ This application falls under the following license:
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-  Node.js and inquirer
+  
   ## Usage
-  Open the terminal, navigate to the develop folder, enter "node index.js", complete the prompts, then the app will create a README file.
+  
   ## Contributors
-  Devon
+  
   ## Tests
-  Name = Devon, Liscense = MIT, Instructions = run application out of terminal
+  
   ## Questions
   Questions? Please contact me at devonkuh99@gmail.com and use the subject line "README Generator Help"
-  You can also visit my Github to view this application at https://github.com/immortalized513
+  You can also visit my Github to view this application at https://github.com/Devonkuhn
